@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yctRvfXVLxC+ECr70xuSuL0N6yVCKXHrWNEY+5+12owLrgSbGDgZrXHju4OMmcg2N+JJFQKZRgXiWT8VNIKy+A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\m.nezhad.SAADATCO\\source\\repos\\FlyWeightPattern\\FlyWeightPattern\\FlyWeightPattern.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\m.nezhad.SAADATCO\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
