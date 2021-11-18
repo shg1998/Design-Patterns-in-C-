@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q104BwuEf46KM1/tK9rZFV9BVqG8REuFWHGB5mpKsK3iwxodgQbyp8uqrzD7oqZh/UcCeaRrQTgyqu55H2WmIQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\m.nezhad.SAADATCO\\Desktop\\DesignPatterns\\Design-Patterns-in-Csharp\\strategy\\StartegyPattern\\StartegyPattern\\StrategyPattern.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\m.nezhad.SAADATCO\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

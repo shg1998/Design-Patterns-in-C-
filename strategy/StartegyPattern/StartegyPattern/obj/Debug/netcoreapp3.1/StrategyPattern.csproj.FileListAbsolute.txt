@@ -1,0 +1,13 @@
+C:\Users\m.nezhad.SAADATCO\Desktop\DesignPatterns\Design-Patterns-in-Csharp\strategy\StartegyPattern\StartegyPattern\bin\Debug\netcoreapp3.1\StrategyPattern.exe
+C:\Users\m.nezhad.SAADATCO\Desktop\DesignPatterns\Design-Patterns-in-Csharp\strategy\StartegyPattern\StartegyPattern\bin\Debug\netcoreapp3.1\StrategyPattern.deps.json
+C:\Users\m.nezhad.SAADATCO\Desktop\DesignPatterns\Design-Patterns-in-Csharp\strategy\StartegyPattern\StartegyPattern\bin\Debug\netcoreapp3.1\StrategyPattern.runtimeconfig.json
+C:\Users\m.nezhad.SAADATCO\Desktop\DesignPatterns\Design-Patterns-in-Csharp\strategy\StartegyPattern\StartegyPattern\bin\Debug\netcoreapp3.1\StrategyPattern.runtimeconfig.dev.json
+C:\Users\m.nezhad.SAADATCO\Desktop\DesignPatterns\Design-Patterns-in-Csharp\strategy\StartegyPattern\StartegyPattern\bin\Debug\netcoreapp3.1\StrategyPattern.dll
+C:\Users\m.nezhad.SAADATCO\Desktop\DesignPatterns\Design-Patterns-in-Csharp\strategy\StartegyPattern\StartegyPattern\bin\Debug\netcoreapp3.1\StrategyPattern.pdb
+C:\Users\m.nezhad.SAADATCO\Desktop\DesignPatterns\Design-Patterns-in-Csharp\strategy\StartegyPattern\StartegyPattern\obj\Debug\netcoreapp3.1\StrategyPattern.csprojAssemblyReference.cache
+C:\Users\m.nezhad.SAADATCO\Desktop\DesignPatterns\Design-Patterns-in-Csharp\strategy\StartegyPattern\StartegyPattern\obj\Debug\netcoreapp3.1\StrategyPattern.AssemblyInfoInputs.cache
+C:\Users\m.nezhad.SAADATCO\Desktop\DesignPatterns\Design-Patterns-in-Csharp\strategy\StartegyPattern\StartegyPattern\obj\Debug\netcoreapp3.1\StrategyPattern.AssemblyInfo.cs
+C:\Users\m.nezhad.SAADATCO\Desktop\DesignPatterns\Design-Patterns-in-Csharp\strategy\StartegyPattern\StartegyPattern\obj\Debug\netcoreapp3.1\StrategyPattern.csproj.CoreCompileInputs.cache
+C:\Users\m.nezhad.SAADATCO\Desktop\DesignPatterns\Design-Patterns-in-Csharp\strategy\StartegyPattern\StartegyPattern\obj\Debug\netcoreapp3.1\StrategyPattern.dll
+C:\Users\m.nezhad.SAADATCO\Desktop\DesignPatterns\Design-Patterns-in-Csharp\strategy\StartegyPattern\StartegyPattern\obj\Debug\netcoreapp3.1\StrategyPattern.pdb
+C:\Users\m.nezhad.SAADATCO\Desktop\DesignPatterns\Design-Patterns-in-Csharp\strategy\StartegyPattern\StartegyPattern\obj\Debug\netcoreapp3.1\StrategyPattern.genruntimeconfig.cache
