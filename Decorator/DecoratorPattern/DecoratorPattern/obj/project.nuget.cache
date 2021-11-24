@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/VJdltHEbEAVdI2La17sa581+PvWuI2v3gbfjj+N7QegFKY/F+3SpC4VSPp3Y404BuffXNK2m/NdfdJtSDBfCg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\m.nezhad.SAADATCO\\Desktop\\Des\\Design-Patterns-in-Csharp\\Decorator\\DecoratorPattern\\DecoratorPattern\\DecoratorPattern.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\m.nezhad.SAADATCO\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
