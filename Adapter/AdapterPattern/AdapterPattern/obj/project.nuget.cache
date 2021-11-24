@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MmXZJl7u8yZabTmEddWAZ2lg+mwcHuPrCe0jJw4yvyRXVjedIvBHXCfr7aQEUgO/ijjpMCb9Q2uEdgQ4ME/wNg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\m.nezhad.SAADATCO\\Desktop\\Des\\Design-Patterns-in-Csharp\\Adapter\\AdapterPattern\\AdapterPattern\\AdapterPattern.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\m.nezhad.SAADATCO\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
