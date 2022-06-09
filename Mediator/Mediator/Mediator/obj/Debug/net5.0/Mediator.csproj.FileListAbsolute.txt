@@ -1,0 +1,16 @@
+G:\Projects\401-03-19\Des\Design-Patterns-in-Csharp\Mediator\Mediator\Mediator\bin\Debug\net5.0\Mediator.exe
+G:\Projects\401-03-19\Des\Design-Patterns-in-Csharp\Mediator\Mediator\Mediator\bin\Debug\net5.0\Mediator.deps.json
+G:\Projects\401-03-19\Des\Design-Patterns-in-Csharp\Mediator\Mediator\Mediator\bin\Debug\net5.0\Mediator.runtimeconfig.json
+G:\Projects\401-03-19\Des\Design-Patterns-in-Csharp\Mediator\Mediator\Mediator\bin\Debug\net5.0\Mediator.runtimeconfig.dev.json
+G:\Projects\401-03-19\Des\Design-Patterns-in-Csharp\Mediator\Mediator\Mediator\bin\Debug\net5.0\Mediator.dll
+G:\Projects\401-03-19\Des\Design-Patterns-in-Csharp\Mediator\Mediator\Mediator\bin\Debug\net5.0\ref\Mediator.dll
+G:\Projects\401-03-19\Des\Design-Patterns-in-Csharp\Mediator\Mediator\Mediator\bin\Debug\net5.0\Mediator.pdb
+G:\Projects\401-03-19\Des\Design-Patterns-in-Csharp\Mediator\Mediator\Mediator\obj\Debug\net5.0\Mediator.csproj.AssemblyReference.cache
+G:\Projects\401-03-19\Des\Design-Patterns-in-Csharp\Mediator\Mediator\Mediator\obj\Debug\net5.0\Mediator.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\401-03-19\Des\Design-Patterns-in-Csharp\Mediator\Mediator\Mediator\obj\Debug\net5.0\Mediator.AssemblyInfoInputs.cache
+G:\Projects\401-03-19\Des\Design-Patterns-in-Csharp\Mediator\Mediator\Mediator\obj\Debug\net5.0\Mediator.AssemblyInfo.cs
+G:\Projects\401-03-19\Des\Design-Patterns-in-Csharp\Mediator\Mediator\Mediator\obj\Debug\net5.0\Mediator.csproj.CoreCompileInputs.cache
+G:\Projects\401-03-19\Des\Design-Patterns-in-Csharp\Mediator\Mediator\Mediator\obj\Debug\net5.0\Mediator.dll
+G:\Projects\401-03-19\Des\Design-Patterns-in-Csharp\Mediator\Mediator\Mediator\obj\Debug\net5.0\ref\Mediator.dll
+G:\Projects\401-03-19\Des\Design-Patterns-in-Csharp\Mediator\Mediator\Mediator\obj\Debug\net5.0\Mediator.pdb
+G:\Projects\401-03-19\Des\Design-Patterns-in-Csharp\Mediator\Mediator\Mediator\obj\Debug\net5.0\Mediator.genruntimeconfig.cache
